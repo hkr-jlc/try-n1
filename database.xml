@@ -2684,8 +2684,1323 @@
 		</check>
 	</bab3_content>
 
-
 	<!-- KONTEN BAB 4 - Pages 47-57 -->
+	<bab4_content>
+		<!-- PAGE 47 - Header & Dekiru Koto -->
+		<header halaman="47">
+			<kategori>昔話を読む</kategori>
+			<kategori_en>Reading a Folk Tale</kategori_en>
+			<kategori_id>Membaca Cerita Rakyat</kategori_id>
+			<nomor>4</nomor>
+			<judul>飯食わぬ女房（２）</judul>
+			<judul_en>The Wife Who Doesn't Eat (2)</judul_en>
+			<judul_id>Istri yang Tidak Makan (2)</judul_id>
+
+			<dekiru_koto>
+				<judul>できること</judul>
+				<judul_id>Yang Bisa Dilakukan</judul_id>
+				<item>
+					<jp>昔話の表現を楽しみながら、登場する人物の行動や出来事の経緯などが理解できる。</jp>
+					<en>Understand the actions of characters, details about events and the like while enjoying expressions in a folk tale.</en>
+					<id>Dapat memahami tindakan karakter dan detail peristiwa sambil menikmati ungkapan dalam cerita rakyat.</id>
+				</item>
+			</dekiru_koto>
+
+			<content type="speech" cd="07">
+				<teks>あるとき、「お前様がいるとゆっくり掃除ができません。昼間は外で遊んでてください。」と嫁が言うので、男は久しぶりに外へ出た。
+	男が歩いていると、道の向こうから友達がやって来た。友達は男が嫁をもらったと聞いて、お祝いかたがた嫁の顔を見に来たのだった。うれしくなった男は、友達に嫁の自慢話をした。
+	だが、友達は真っ青な顔をして、「何も食べない人間がいるとは、信じられない。それは化物だ。」と言った。そして、「明日、出かけるふりをして、家の中をのぞいてみたら。」と言い残し、逃げるように帰ってしまった。
+	次の日、男は家を出るふりをして、家の中をのぞいてみた。笑顔だった嫁は、男が家を出るなり恐ろしい顔になった。「あのけちの息子者め！昼間っから酒は飲むわ、ごろごろするわ、外へ出すのも一苦労だ。ああ、腹が減ったぞ。」とつぶやき、大きい釜で米を炊き始めた。そして、結んでいた長い髪をほどいた。すると、頭の後ろから、鋭い歯が生えた大きな口が現れた。嫁は、米が炊けるが早いかどんどん握り飯を作り、作るそばから頭の後ろの口へ放り込み、むしゃむしゃと食べ始めた。「これでは足りぬ。」と言いながら、恐ろしい言葉が飛び出した。びっくりした男は、つい「ひゃあ！」と悲鳴を上げてしまった。
+	「見たな！誰じゃ！」長い髪の間から、きらきら光る眼が男をにらみつけた。捕まったが最後、食べられてしまうように追いかけて来る女は、二口女という妖怪だったのだ。
+	「待て！お前を食ってやる！」恐ろしい顔で追いかけて来る女は、あわてて逃げ出した。</teks>
+				<teks_id>Suatu ketika, istri berkata, "Kalau Anda ada, saya tidak bisa membersihkan dengan tenang. Tolong bermain di luar pada siang hari." Karena itu, pria itu pergi ke luar untuk pertama kalinya setelah sekian lama.
+	Ketika pria itu sedang berjalan, dari seberang jalan datanglah seorang teman. Teman itu mendengar bahwa pria itu telah menikah, jadi datang untuk melihat wajah istrinya sambil memberikan selamat. Pria itu menjadi senang dan membual tentang istrinya kepada temannya.
+	Tetapi, teman itu dengan wajah pucat berkata, "Ada orang yang tidak makan apa pun, itu tidak bisa dipercaya. Itu adalah monster." Dan meninggalkan pesan, "Besok, berpura-pura pergi dan intip ke dalam rumah." lalu pulang seolah-olah melarikan diri.
+	Keesokan harinya, pria itu berpura-pura keluar rumah dan mengintip ke dalam rumah. Istri yang tadinya tersenyum, segera setelah pria itu keluar rumah berubah menjadi wajah menakutkan. "Anak tuan yang pelit itu! Dari siang sudah minum sake, berguling-guling, membuatnya keluar pun susah. Ah, perutku lapar." gumamnya, lalu mulai memasak nasi di kuali besar. Dan, dia melepaskan rambut panjangnya yang diikat. Lalu, dari belakang kepalanya muncul mulut besar dengan gigi tajam. Istri itu, segera setelah nasi matang, terus membuat onigiri, dan segera setelah membuatnya memasukkannya ke mulut di belakang kepalanya, lalu memakannya dengan lahap. "Ini tidak cukup." katanya sambil kata-kata menakutkan keluar. Pria itu yang terkejut, tanpa sadar berteriak "Hyaah!"
+	"Kamu melihatnya! Siapa!" Dari balik rambut panjangnya, mata yang berkilauan menatap pria itu. Jika tertangkap, wanita yang mengejar seolah-olah akan memakannya adalah youkai yang disebut Futakuchi-onna (wanita berdua mulut).
+	"Tunggu! Aku akan memakanmu!" Wanita dengan wajah menakutkan yang mengejar itu, (pria itu) bergegas melarikan diri.</teks_id>
+			</content>
+		</header>
+
+		<!-- SUB BAB 26: お祝いかたがた - Page 48 -->
+		<sub_bab id="26" halaman="48">
+			<nomor>26</nomor>
+			<judul>お祝いかたがた</judul>
+			<judul_id>Sambil Memberikan Selamat</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「AかたがたB」は「お見舞いかたがた会いに行く」のように「Aという目的（お見舞い）もあって、Bをする（会いに行く）」という意味を表す。Bには「伺う・行く・訪ねる・来る」など移動に関係のある動詞がよく使われる。</jp>
+					<en>As in "お見舞いかたがた会いに行く", "AかたがたB" expresses a meaning that says "do B (会いに行く) along with the purpose of A (お見舞い)." Verbs related to movement such as "伺う・行く・訪ねる・来る" are often used for B.</en>
+					<id>Seperti dalam "pergi menengok sambil memberikan selamat", "A katagata B" menyatakan makna "melakukan B dengan juga memiliki tujuan A". Kata kerja yang berhubungan dengan pergerakan seperti "mengunjungi, pergi, datang" sering digunakan untuk B.</id>
+				</penjelasan>
+				<pola>N + かたがた</pola>
+				<pola_id>Kata Benda + katagata</pola_id>
+				<catatan>※「挨拶・お見舞い・報告・お礼・お祝い・おわび」などの言葉と一緒に使われることが多い。</catatan>
+				<catatan_id>※ Sering digunakan bersama kata-kata seperti "salam, menengok, laporan, terima kasih, selamat, permintaan maaf".</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>お世話になった先輩のお宅へ、お礼かたがた新年のご挨拶に伺った。</jp>
+						<id>Saya mengunjungi rumah senior yang telah merawat saya untuk memberikan terima kasih sekaligus ucapan selamat Tahun Baru.</id>
+					</item>
+					<item no="2">
+						<jp>上司が入院したので、お見舞いかたがた仕事の進め方について相談に行った。</jp>
+						<id>Karena atasan masuk rumah sakit, saya pergi menengoknya sekaligus berkonsultasi tentang cara memajukan pekerjaan.</id>
+					</item>
+					<item no="3">
+						<jp>先生、本日はご無沙汰のお詫びかたがた、就職のご報告に参りました。</jp>
+						<id>Guru, hari ini saya datang untuk meminta maaf atas kelamaan tidak berkunjung sekaligus melaporkan bahwa saya telah mendapat pekerjaan.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<plus>
+				<judul>Plus 〜がてら</judul>
+				<judul_id>Plus ~Gatera</judul_id>
+				<penjelasan>
+					<jp>「AがてらB」は「Aの機会を利用して、Bする」と言いたいときに使われる。A・Bには、移動に関係のある言葉がよく使われる。</jp>
+					<en>"AがてらB" is used when you want to say "do B by using opportunity A." Words relating to movement are often used for A and B.</en>
+					<id>"A gatera B" digunakan ketika ingin mengatakan "melakukan B dengan memanfaatkan kesempatan A". Kata-kata yang berhubungan dengan pergerakan sering digunakan untuk A dan B.</id>
+				</penjelasan>
+				<pola>N／V-ます + がてら</pola>
+				<pola_id>Kata Benda / Kata Kerja bentuk masu + gatera</pola_id>
+
+				<contoh_plus>
+					<item no="1">
+						<jp>合格祈願のお参りがてら、早咲きの梅を見に行きませんか。</jp>
+						<id>Bagaimana kalau kita pergi melihat bunga plum yang mekar awal sambil berdoa untuk kelulusan?</id>
+					</item>
+					<item no="2">
+						<jp>散歩がてら、コンビニで牛乳買ってきたよ。</jp>
+						<id>Aku pergi membeli susu di konbini sambil jalan-jalan.</id>
+					</item>
+					<item no="3">
+						<jp>出産した友達に、お祝いを届けがてら、会いに行った。</jp>
+						<id>Aku pergi menemui teman yang baru melahirkan sambil mengantarkan ucapan selamat.</id>
+					</item>
+				</contoh_plus>
+			</plus>
+
+			<halaman_ref>p.48 〜かたがた</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 27: 何も食べない人間がいるとは - Pages 48-49 -->
+		<sub_bab id="27" halaman="48-49">
+			<nomor>27</nomor>
+			<judul>何も食べない人間がいるとは</judul>
+			<judul_id>Ada Orang yang Tidak Makan Apa Pun</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「〜とは」は、意外な事実に対する話し手の驚き・感心・あきれなどの気持ちを言いたいときに使われる。</jp>
+					<en>"~to wa" is used when the speaker wants to express a feeling such as surprise, admiration or amazement about an unusual fact.</en>
+					<id>"~to wa" digunakan ketika pembicara ingin mengungkapkan perasaan terkejut, kagum, atau heran tentang suatu fakta yang tidak biasa.</id>
+				</penjelasan>
+				<pola>PI + とは [なA（だ） N（だ）]</pola>
+				<pola_id>Predikat + to wa [Kata Sifat na / Kata Benda]</pola_id>
+				<catatan>※「〜とは。」と、後ろを省略することもある。</catatan>
+				<catatan_id>※ Bagian belakang "~to wa" kadang dihilangkan.</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>有名なコーヒーショップだと聞いてはいたが、コーヒー1杯2,000円とは驚いたよ。</jp>
+						<id>Aku sudah mendengar bahwa ini toko kopi terkenal, tetapi 2.000 yen per gelas itu membuatku terkejut.</id>
+					</item>
+					<item no="2">
+						<jp>外国での一人暮らしがこんなに大変だとは思ってもみなかったよ。</jp>
+						<id>Aku sama sekali tidak menyangka bahwa hidup sendirian di luar negeri seberat ini.</id>
+					</item>
+					<item no="3">
+						<jp>内気で無口だった彼女が女優になるとは、人生はわからないものだ。</jp>
+						<id>Dia yang pemalu dan pendiam menjadi aktris, sungguh kehidupan ini tidak bisa diprediksi.</id>
+					</item>
+					<item no="4">
+						<jp>まさか君たちが結婚するととはねえ。学生時代はけんかばかりしていたじゃないか。</jp>
+						<id>Siapa sangka kalian berdua akan menikah. Padahal waktu sekolah selalu berkelahi.</id>
+					</item>
+					<item no="5">
+						<jp>あの優しそうな老人が、強盗事件の犯人だったとは。</jp>
+						<id>Sungguh tidak disangka, orang tua yang tampak lemah lembut itu adalah pelaku perampokan.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal_matching>
+					<item id="1">
+						<teks>1枚だけ買った宝くじが当たるとは、・・・</teks>
+						<match>b</match>
+						<teks_match>夢を見ているようだ。</teks_match>
+						<id>Memenangkan lotre dengan hanya membeli 1 lembar, seperti sedang bermimpi.</id>
+					</item>
+					<item id="2">
+						<teks>ベッドの下にこんなにほこりがたまっていたとは、・・・</teks>
+						<match>a</match>
+						<teks_match>今まで気づかなかった。</teks_match>
+						<id>Ada begitu banyak debu di bawah tempat tidur, tidak menyadarinya selama ini.</id>
+					</item>
+					<item id="3">
+						<teks>高級ブランドのバッグが簡単に壊れるとは、・・・</teks>
+						<match>d</match>
+						<teks_match>偽物だったのかな。</teks_match>
+						<id>Tas merek mewah mudah rusak, mungkin palsu ya.</id>
+					</item>
+					<item id="4">
+						<teks>1週間で3キロも太るとは、・・・</teks>
+						<match>c</match>
+						<teks_match>一体何を食べたんだ。</teks_match>
+						<id>Bertambah 3 kg dalam seminggu, apa yang dimakan ya.</id>
+					</item>
+				</soal_matching>
+			</yatte_miyou>
+
+			<halaman_ref>p.48 〜とは</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 28: 家を出るなり - Page 49 -->
+		<sub_bab id="28" halaman="49">
+			<nomor>28</nomor>
+			<judul>家を出るなり</judul>
+			<judul_id>Segera Setelah Keluar Rumah</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「〜なり…」は「〜という動作のすぐ後で…ということが起こる」と言いたいときに使われる。起きた出来事や他の人の意外な行動に驚いたときに使われることが多い。</jp>
+					<en>"~nari..." is used when you want to say "... happened soon after action ~." This is often used when you are surprised about an event that has occurred or unusual behavior by another person.</en>
+					<id>"~nari..." digunakan ketika ingin mengatakan "... terjadi segera setelah tindakan ~". Sering digunakan ketika terkejut dengan peristiwa yang terjadi atau perilaku tidak biasa orang lain.</id>
+				</penjelasan>
+				<pola>V-る + なり</pola>
+				<pola_id>Kata Kerja bentuk dasar + nari</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>警部は受話器を置くなり、コートを片手に飛び出していった。</jp>
+						<id>Kepala polisi, segera setelah meletakkan telepon, bergegas keluar sambil mengambil mantel.</id>
+					</item>
+					<item no="2">
+						<jp>彼女は立ち上がるなり、コップの水を彼の顔にかけた。</jp>
+						<id>Dia, segera setelah berdiri, menyiramkan air gelas ke wajahnya.</id>
+					</item>
+					<item no="3">
+						<jp>王子はシンデレラを一目見るなり、恋に落ちてしまった。</jp>
+						<id>Pangeran, segera setelah melihat Cinderella sekilas, jatuh cinta.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal id="1">
+					<teks>警官は「伏せろ！」と叫ぶなり、犯人に向かって（a. 発砲した b. 話しかけた）。</teks>
+					<jawaban>発砲した</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>社長は料理を口にするなり、（a. 苦しんでいた b. 苦しみ出した）。</teks>
+					<jawaban>苦しみ出した</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>彼は、名人が作った器を手に取るなり、（a. 同じ作品を作った b. 素晴らしいと言った）。</teks>
+					<jawaban>素晴らしいと言った</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.49 〜なり</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 29: 酒は飲むわ、ごろごろするわ - Page 50 -->
+		<sub_bab id="29" halaman="50">
+			<nomor>29</nomor>
+			<judul>酒は飲むわ、ごろごろするわ</judul>
+			<judul_id>Minum Sake, Berguling-guling</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「AわBわ」は、困ったり喜んだりする理由や状況を並べて言うときに使う。</jp>
+					<en>Use "A wa B wa" when you state a series of troublesome or happy reasons or circumstances.</en>
+					<id>"A wa B wa" digunakan ketika menyatakan serangkaian alasan atau situasi yang menyusahkan atau menyenangkan.</id>
+				</penjelasan>
+				<pola>PI1 + わ + PI2 + わ [現在形のみ]</pola>
+				<pola_id>Predikat 1 + wa + Predikat 2 + wa [Hanya bentuk kini]</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>雨には降られるわ、上司には叱られるわ、ついていない1日だった。</jp>
+						<id>Kehujanan, dimarahi atasan, hari yang sial.</id>
+					</item>
+					<item no="2">
+						<jp>最近、中村くん、どうしたんだろう。遅刻はするわ、宿題は忘れるわ……。</jp>
+						<id>Akhir-akhir ini Nakamura, kenapa ya. Terlambat, lupa PR...</id>
+					</item>
+					<item no="3">
+						<jp>例文は難解だわ、字は小さいわ、こんな辞書、買う人いるのかな。</jp>
+						<id>Contoh kalimat sulit, huruf kecil, apakah ada yang membeli kamus seperti ini?</id>
+					</item>
+					<item no="4">
+						<jp>料理はうまいわ、眺めはいいわ、あの旅館は最高だったね。</jp>
+						<id>Masakannya enak, pemandangannya bagus, penginapan itu luar biasa.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<halaman_ref>p.50 〜わ</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 30: 米が炊けるが早いか - Pages 50-51 -->
+		<sub_bab id="30" halaman="50-51">
+			<nomor>30</nomor>
+			<judul>米が炊けるが早いか</judul>
+			<judul_id>Segera Setelah Nasi Matang</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「〜が早いか…」は「〜なり」と同じように「〜の直後、ほとんど同時に…ということが起こる」と言いたいときに使われる。「…」が起こるまでの時間が非常に短いことを驚いて話すときに使うことが多い。</jp>
+					<en>Just like "~nari", "~ga hayai ka..." is used when you want to say "... happened immediately after or almost at the same time as ~." This is often used when you express surprise over the extremely short time by which "..." happened.</en>
+					<id>Sama seperti "~nari", "~ga hayai ka..." digunakan ketika ingin mengatakan "... terjadi segera setelah atau hampir bersamaan dengan ~". Sering digunakan ketika mengungkapkan keheranan atas waktu yang sangat singkat hingga "..." terjadi.</id>
+				</penjelasan>
+				<pola>V-る／V-た + が早いか</pola>
+				<pola_id>Kata Kerja bentuk dasar / ta + ga hayai ka</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>店員がドアを開けるが早いか、待っていた客がなだれ込んできた。</jp>
+						<id>Segera setelah pegawai membuka pintu, tamu yang menunggu berbondong-bondong masuk.</id>
+					</item>
+					<item no="2">
+						<jp>侍が刀に手をかけるが早いか、敵は悲鳴を上げる間もなく倒れた。</jp>
+						<id>Segera setelah samurai menggagang pedang, musuh jatuh tanpa sempat berteriak.</id>
+					</item>
+					<item no="3">
+						<jp>魔法使いが呪文を唱えるが早いか、王子はたちまち蛙に変わった。</jp>
+						<id>Segera setelah penyihir mengucapkan mantra, pangeran seketika berubah menjadi katak.</id>
+					</item>
+					<item no="4">
+						<jp>刑事はタクシーに乗り込んだが早いか、「前の車を追ってくれ」と言った。</jp>
+						<id>Segera setelah detektif naik taksi, dia berkata "Kejar mobil di depan."</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal id="1">
+					<teks>12時の鐘が鳴るが早いか、美しい馬車はあっという間にカボチャに戻った。</teks>
+					<pilihan id="a">12時の鐘がなるとすぐ、馬車はカボチャに戻った。</pilihan>
+					<pilihan id="b">12時の鐘が鳴るより早く、馬車はカボチャに戻った。</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>受付時間になるが早いか、待ち構えていたように電話が鳴り出した。</teks>
+					<pilihan id="a">受付時間になるのを待っている間に、電話がかかってきた。</pilihan>
+					<pilihan id="b">受付時間になるかならないかのうちに、電話がかかってきた。</pilihan>
+					<jawaban>b</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>母親が出かけるが早いか、子どもたちはゲームを始めた。</teks>
+					<pilihan id="a">子どもたちは母親がいる間はゲームをしなかった。</pilihan>
+					<pilihan id="b">子どもたちは母親が早い時間に出かけたので、ゲームをした。</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.50 〜が早いか</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 31: 作るそばから - Pages 51-52 -->
+		<sub_bab id="31" halaman="51-52">
+			<nomor>31</nomor>
+			<judul>作るそばから</judul>
+			<judul_id>Segera Setelah Membuat</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「AそばからB」は「Aの後、すぐにBをする」と言いたいときに使われる。A・B 2つの動作が何回も反復される様子を述べたり、「頑張ってAをしたのに、すぐにBなので、努力が無駄になってしまう」と言いたいときによく使われる。</jp>
+					<en>"A soba kara B" is used when you want to say "B happens soon after A." This is often used when you want to say that both actions A and B recur many times, or that "even though I did my best to do A, B happened quickly, so my effort was a waste."</en>
+					<id>"A soba kara B" digunakan ketika ingin mengatakan "B terjadi segera setelah A". Sering digunakan ketika menggambarkan tindakan A dan B berulang kali, atau ketika mengatakan "meski berusaha keras melakukan A, B terjadi dengan cepat, jadi usaha menjadi sia-sia."</id>
+				</penjelasan>
+				<pola>V-る／V-た + そばから</pola>
+				<pola_id>Kata Kerja bentuk dasar / ta + soba kara</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>父は肉が焼けるそばから私たちの皿にどんどん載せてくれた。</jp>
+						<id>Ayah, segera setelah daging matang, terus menaruhnya ke piring kami.</id>
+					</item>
+					<item no="2">
+						<jp>工場では新しい製品が完成するそばから箱詰めされて出荷されていく。</jp>
+						<id>Di pabrik, segera setelah produk baru selesai, langsung dikemas dan dikirim.</id>
+					</item>
+					<item no="3">
+						<jp>今日は大雪で、帽子にも肩にも払うそばから雪が降り積もってしまう。</jp>
+						<id>Hari ini salju lebat, segera setelah menyalju dari topi dan bahu, salju menumpuk lagi.</id>
+					</item>
+					<item no="4">
+						<jp>ゴミを片付けたそばからカラスが散らかすので、道が汚れて困る。</jp>
+						<id>Segera setelah membersihkan sampah, gagak mencerberakkannya, jadi jalan kotor dan merepotkan.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal id="1">
+					<teks>学生たちは積極的なので、教師が説明するそばから（a. 新しい質問を出す b. シーンと静まり返る）。</teks>
+					<jawaban>新しい質問を出す</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>問い合わせのメールに返信するそばから次のメールが（a. 入ってくる b. 来ない）ので、なかなか他の仕事ができない。</teks>
+					<jawaban>入ってくる</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>この商品は入荷するそばから（a. 人気がある b. 売れてしまう）ので、常に品薄だ。</teks>
+					<jawaban>売れてしまう</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.51 〜そばから</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 32: 食わずにはおかない - Page 52 -->
+		<sub_bab id="32" halaman="52">
+			<nomor>32</nomor>
+			<judul>食わずにはおかない</judul>
+			<judul_id>Tidak Akan Membiarkan Tanpa Memakan</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「〜ずにはおかない」は「〜するまであきらめない／絶対に〜する」という話し手の強い意志を表す。</jp>
+					<en>"~zu ni wa okanai" expresses the speaker's strong intention to "not give up until I do ~ / absolutely do ~."</en>
+					<id>"~zu ni wa okanai" mengungkapkan niat kuat pembicara untuk "tidak menyerah sampai melakukan ~ / pasti melakukan ~".</id>
+				</penjelasan>
+				<pola>V-ない + ずにはおかない / ないではおかない</pola>
+				<pola_id>Kata Kerja bentuk negatif + zuni wa okanai / nai de wa okanai</pola_id>
+				<catatan>※「する」→「せずに」「来る」→「来ずに」</catatan>
+				<catatan_id>※ "suru" menjadi "sezuni", "kuru" menjadi "kozuni"</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>「今度こそ犯人を捕まえずにはおかないぞ」と警部は心に誓った。</jp>
+						<id>"Kali ini aku pasti akan menangkap pelaku," Kepala polisi bersumpah dalam hati.</id>
+					</item>
+					<item no="2">
+						<jp>当時の大統領は、自分の意見に反対する者を排除せずにはおかない人間だった。</jp>
+						<id>Presiden saat itu adalah orang yang tidak akan membiarkan orang yang menentang pendapatnya tanpa melenyapkannya.</id>
+					</item>
+					<item no="3">
+						<jp>彼の過失となれば、会社は損害賠償を請求しないではおかないだろう。</jp>
+						<id>Jika menjadi kelalaiannya, perusahaan pasti akan menuntut ganti rugi.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<u>
+				<penjelasan>
+					<jp>「〜ずにはおかない」は「自然に〜の感情が起こる／〜の状況になる」と言いたいときにもよく使われる。</jp>
+					<en>"~zu ni wa okanai" is also often used when you want to say "naturally develop a feeling of ~ / develop into situation ~."</en>
+					<id>"~zu ni wa okanai" juga sering digunakan ketika ingin mengatakan "secara alami timbul perasaan ~ / berkembang menjadi situasi ~".</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>盲目のピアニストが奏でる美しい調べは、聴衆の心を震わせずにはおかなかった。</jp>
+						<id>Melodi indah yang dimainkan pianis buta tidak bisa tidak menggetarkan hati penonton.</id>
+					</item>
+					<item no="2">
+						<jp>大手の自動車メーカーが倒産するようなことがあれば、多くの中小企業の経営危機を引き起こさずにはおかないだろう。</jp>
+						<id>Jika perusahaan mobil besar bangkrut, pasti akan memicu krisis manajemen banyak UKM.</id>
+					</item>
+					<item no="3">
+						<jp>地球外生命体の異様な映像は、見る人に衝撃を与えずにはおかないだろう。</jp>
+						<id>Gambar aneh makhluk hidup luar angkasa pasti akan memberikan kejutan kepada penonton.</id>
+					</item>
+				</contoh_plus>
+			</u>
+
+			<halaman_ref>p.180 〜ずには / p.181 〜ないでは／〜ないでも</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 33: 捕まったが最後 - Page 53 -->
+		<sub_bab id="33" halaman="53">
+			<nomor>33</nomor>
+			<judul>捕まったが最後</judul>
+			<judul_id>Jika Tertangkap, Itu Akan Menjadi Akhir</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「〜たが最後…」は「もし〜したら、必ず…になってしまう」という意味を表す。「…」には、話し手にとって望ましくない状態を表す言葉が入る。</jp>
+					<en>"~ta ga saigo..." expresses the meaning that "if you do ~, then ... will certainly happen." Words that express a situation that is not desirable to the speaker are used for "..." .</en>
+					<id>"~ta ga saigo..." menyatakan makna "jika melakukan ~, maka ... pasti akan terjadi". Kata-kata yang menyatakan situasi yang tidak diinginkan pembicara digunakan untuk "...".</id>
+				</penjelasan>
+				<pola>V-た + が最後</pola>
+				<pola_id>Kata Kerja bentuk ta + ga saigo</pola_id>
+				<catatan>※話し言葉では「〜たら最後」がよく使われる。</catatan>
+				<catatan_id>※ Dalam bahasa lisan, "~tara saigo" sering digunakan.</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>彼はアトリエにこもったが最後、寝食を忘れてしまうので家族は心配している。</jp>
+						<id>Jika dia sudah mengurung diri di atelier, dia akan lupa tidur dan makan, jadi keluarganya khawatir.</id>
+					</item>
+					<item no="2">
+						<jp>顧客からの信頼は一度失ったが最後、取り戻すことは難しいだろう。</jp>
+						<id>Kepercayaan dari pelanggan, jika sudah hilang sekali, sulit untuk dikembalikan.</id>
+					</item>
+					<item no="3">
+						<jp>この本は読み始めたが最後、徹夜してでも一気に終わりまで読みたくなる面白さです。</jp>
+						<id>Buku ini, jika sudah mulai dibaca, memiliki daya tarik yang membuat ingin membaca sampai akhir sekalipun harus begadang.</id>
+					</item>
+					<item no="4">
+						<jp>このボタンを押したら最後、データの復元は二度とできなくなるから、注意してね。</jp>
+						<id>Jika tombol ini ditekan, data tidak bisa dipulihkan lagi, jadi hati-hati.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<halaman_ref>p.53 〜たが最後</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 34: 食ってやる - Page 53 -->
+		<sub_bab id="34" halaman="53">
+			<nomor>34</nomor>
+			<judul>食ってやる</judul>
+			<judul_id>Akan Memakanmu</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「〜てやる」は「怒り・不満などの強い感情を持って〜する」ことを表す。</jp>
+					<en>"~te yaru" says "do ~ with a strong emotion such as anger or dissatisfaction."</en>
+					<id>"~te yaru" menyatakan "melakukan ~ dengan emosi kuat seperti kemarahan atau ketidakpuasan."</id>
+				</penjelasan>
+				<pola>V-て + やる</pola>
+				<pola_id>Kata Kerja bentuk te + yaru</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>もう我慢できない。こんな会社辞めてやる。</jp>
+						<id>Aku sudah tidak tahan. Aku akan keluar dari perusahaan ini.</id>
+					</item>
+					<item no="2">
+						<jp>あんなやつ、なぐってやる。</jp>
+						<id>Orang seperti itu, aku akan menghajarnya.</id>
+					</item>
+					<item no="3">
+						<jp>何回も失敗したけど、今度こそ絶対頂上まで登ってやる。</jp>
+						<id>Meski gagal berkali-kali, kali ini aku pasti akan naik ke puncak.</id>
+					</item>
+					<item no="4">
+						<jp>営業成績を伸ばして、来月は一番になってやる。</jp>
+						<id>Akan meningkatkan hasil penjualan, dan bulan depan aku akan menjadi nomor satu.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<halaman_ref>p.53 〜てやる</halaman_ref>
+		</sub_bab>
+
+		<!-- CHECK - Page 54 -->
+		<check halaman="54">
+			<judul>Check</judul>
+			<judul_id>Cek</judul_id>
+			<jawaban_ref>別冊P. 2</jawaban_ref>
+
+			<bagian1>
+				<instruksi>適当な形に変えて、（　　）に入れなさい。</instruksi>
+				<instruksi_id>Ubah ke bentuk yang tepat dan isi (　　).</instruksi_id>
+
+				<soal id="1">
+					<teks>たった700円で、こんなにおなかいっぱい食べられる（　　　　　　）、いい店を見つけたね。</teks>
+					<jawaban>とは</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>ライオンは草むらから飛び出す（　　　　　　）、シマウマの群れに襲いかかった。</teks>
+					<jawaban>が早いか</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>うちの弟はゲームを始めた（　　　　　　）、時間というものを忘れてしまうんです。</teks>
+					<jawaban>が最後</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>が最後</item>
+					<item>が早いか</item>
+					<item>とは</item>
+				</pilihan_jawaban>
+			</bagian1>
+
+			<bagian2>
+				<soal id="4">
+					<teks>お前、無駄遣いはやめると言った（　　　　　　）、新しいかばんを2つも買うなんて、どういうことだ。</teks>
+					<jawaban>そばから</jawaban>
+				</soal>
+				<soal id="5">
+					<teks>裁判で犯罪被害者が、何としても被告に罪を償わせず（　　　　　　）と思うのは当然である。</teks>
+					<jawaban>にはおかない</jawaban>
+				</soal>
+				<soal id="6">
+					<teks>本日は、先生に合格のご報告（　　　　　　）、お礼に伺いました。</teks>
+					<jawaban>かたがた</jawaban>
+				</soal>
+				<soal id="7">
+					<teks>連日仕事に追われていた夫は、昨晩深夜に帰宅する（　　　　　　）、玄関で倒れてしまったのです。</teks>
+					<jawaban>なり</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>かたがた</item>
+					<item>そばから</item>
+					<item>なり</item>
+					<item>にはおかない</item>
+				</pilihan_jawaban>
+			</bagian2>
+		</check>
+
+		<!-- REVIEW QUESTIONS - Pages 55-57 -->
+		<matome halaman="55-57">
+			<judul>まとめの問題</judul>
+			<judul_id>Soal-soal Ringkasan</judul_id>
+			<jawaban_ref>別冊P. 10</jawaban_ref>
+
+			<mondai1 type="文法形式の判断">
+				<judul>問題1 〈文法形式の判断〉</judul>
+				<judul_id>Soal 1: Penilaian Bentuk Tata Bahasa</judul_id>
+				<instruksi>次の文の（　　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。</instruksi>
+				<instruksi_id>Pilih yang paling tepat untuk mengisi (　　) dalam kalimat berikut dari pilihan 1・2・3・4.</instruksi_id>
+
+				<soal id="1">
+					<teks>無理して徹夜なんてしなきゃよかった。早く寝る（　　）、薬を飲む（　　）しておけば治ったかもしれない。</teks>
+					<pilihan id="1">につけ／につけ</pilihan>
+					<pilihan id="2">にしろ／にしろ</pilihan>
+					<pilihan id="3">やら／やら</pilihan>
+					<pilihan id="4">なり／なり</pilihan>
+					<jawaban>3</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>計算ソフトの使い方を何度も教えているのに、本田君は聞いた（　　）忘れるんだよね。</teks>
+					<pilihan id="1">が早いか</pilihan>
+					<pilihan id="2">次第</pilihan>
+					<pilihan id="3">そばから</pilihan>
+					<pilihan id="4">なり</pilihan>
+					<jawaban>3</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>新発売のエコカーは環境への配慮（　　）、価格の面でも皆様にご納得いただけるものとなっております。</teks>
+					<pilihan id="1">どころか</pilihan>
+					<pilihan id="2">はおろか</pilihan>
+					<pilihan id="3">かたがた</pilihan>
+					<pilihan id="4">はもとより</pilihan>
+					<jawaban>4</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>内容が暴力的であるという親たちの批判（　　）、子どもたちはこの番組を楽しんで見ている。</teks>
+					<pilihan id="1">をよそに</pilihan>
+					<pilihan id="2">を抜きに</pilihan>
+					<pilihan id="3">といえども</pilihan>
+					<pilihan id="4">をもって</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="5">
+					<teks>すいかの皮はたいていの人が捨ててしまうが、工夫すれば（　　）。</teks>
+					<pilihan id="1">食べられるものではない</pilihan>
+					<pilihan id="2">食べられないでもない</pilihan>
+					<pilihan id="3">食べられない</pilihan>
+					<pilihan id="4">食べずにはおかない</pilihan>
+					<jawaban>2</jawaban>
+				</soal>
+				<soal id="6">
+					<teks>私にとって、彼は学年1位を争うライバル（　　）最高の親友でもありました。</teks>
+					<pilihan id="1">にして</pilihan>
+					<pilihan id="2">にもまして</pilihan>
+					<pilihan id="3">において</pilihan>
+					<pilihan id="4">に対して</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="7">
+					<teks>どろぼう猫は魚屋に入った（　　）、近くにあったサンマをくわえて逃げ出した。</teks>
+					<pilihan id="1">とは</pilihan>
+					<pilihan id="2">が最後</pilihan>
+					<pilihan id="3">そばから</pilihan>
+					<pilihan id="4">が早いか</pilihan>
+					<jawaban>4</jawaban>
+				</soal>
+				<soal id="8">
+					<teks>大変申し訳ありませんが、やむを得ぬ事情により、今回は欠席させていただく（　　）です。</teks>
+					<pilihan id="1">しまつ</pilihan>
+					<pilihan id="2">一方</pilihan>
+					<pilihan id="3">最中</pilihan>
+					<pilihan id="4">次第</pilihan>
+					<jawaban>4</jawaban>
+				</soal>
+			</mondai1>
+
+			<mondai2 type="文の組み立て">
+				<judul>問題2 〈文の組み立て〉</judul>
+				<judul_id>Soal 2: Penyusunan Kalimat</judul_id>
+				<instruksi>次の文の★に入る最もよいものを1・2・3・4から一つ選びなさい。</instruksi>
+				<instruksi_id>Pilih yang paling tepat untuk mengisi ★ dalam kalimat berikut dari pilihan 1・2・3・4.</instruksi_id>
+
+				<soal id="1">
+					<teks>いくら真夏でも、Tシャツ1枚で＿＿＿　＿＿＿　★　＿＿＿だ。</teks>
+					<pilihan id="1">非常識</pilihan>
+					<pilihan id="2">とは</pilihan>
+					<pilihan id="3">登る</pilihan>
+					<pilihan id="4">富士山に</pilihan>
+					<jawaban>2</jawaban>
+					<urutan>4 3 2 1</urutan>
+				</soal>
+				<soal id="2">
+					<teks>スケートを教えてほしいって彼女に言われたんだけど、実は俺、＿＿＿　＿＿＿　★　＿＿＿さえできないんだ。どうしよう……。</teks>
+					<pilihan id="1">立つこと</pilihan>
+					<pilihan id="2">滑ること</pilihan>
+					<pilihan id="3">氷の上に</pilihan>
+					<pilihan id="4">はおろか</pilihan>
+					<jawaban>4</jawaban>
+					<urutan>2 4 3 1</urutan>
+				</soal>
+				<soal id="3">
+					<teks>毎晩、壁の中から奇妙な音がする。安いから借りたけど、＿＿＿　＿＿＿　★　＿＿＿あるらしいんだ。</teks>
+					<pilihan id="1">安いのには</pilihan>
+					<pilihan id="2">この部屋が</pilihan>
+					<pilihan id="3">理由が</pilihan>
+					<pilihan id="4">それなりの</pilihan>
+					<jawaban>4</jawaban>
+					<urutan>2 1 4 3</urutan>
+				</soal>
+			</mondai2>
+
+			<mondai3 type="文章の文法">
+				<judul>問題3 〈文章の文法〉</judul>
+				<judul_id>Soal 3: Tata Bahasa Teks</judul_id>
+				<instruksi>次の文章を読んで、文章全体の内容を考えて、1から4の中に入る最もよいものを、1・2・3・4から一つ選びなさい。</instruksi>
+				<instruksi_id>Baca teks berikut, pertimbangkan isi keseluruhan teks, dan pilih yang paling tepat untuk mengisi 1 sampai 4 dari pilihan 1・2・3・4.</instruksi_id>
+
+				<bacaan>
+					<teks>「おい、そこの時計見てみろ。もう5時だぞ。2時の休憩に入るが早いか、飛び出したっきりで……。出てったが最後、3時半になっても、4時になっても帰ってこないし……。うちみたいな小さな店は、1人欠けても大変だってわかるだろ。
+	ほら、また！いつもお前は人が話してるそばから、ケータイいじって……。ちょっと貸してみろ！」
+	「あ！」
+	「兄貴、さっきはありがとう。」何だ、これは？」
+	「すいません。実は弟がバイクで事故って、それで病院へ行ってたんです。」
+	「それなら電話するなり、誰か他のアルバイトに言っておくなりしろよ。……まあ、早く治るといいな。」</teks>
+					<id>"Hei, lihat jam di sana. Sudah jam 5. Segera setelah masuk istirahat jam 2, dia terbang keluar... Setelah keluar, meski sudah jam 3:30 atau jam 4, dia tidak kembali... Kamu tahu kan, toko kecil seperti kita ini, sangat sulit jika kurang 1 orang.
+	Lihat, lagi! Kamu selalu main ponsel sementara orang lain sedang bicara... Pinjam sebentar!"
+	"Ah!"
+	"Kakak, terima kasih tadi." Apa ini?"
+	"Maaf. Sebenarnya adikku kecelakaan naik motor, jadi dia pergi ke rumah sakit."
+	"Kalau begitu, teleponlah, atau suruh pekerja paruh waktu lain. ...Ya, semoga cepat sembuh."</id>
+				</bacaan>
+
+				<soal id="1">
+					<teks>誰が誰に対して怒っているか。</teks>
+					<pilihan id="1">店長がアルバイト店員に</pilihan>
+					<pilihan id="2">客がアルバイト店員に</pilihan>
+					<pilihan id="3">店長が客に</pilihan>
+					<pilihan id="4">新人店員が先輩の店員に</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>この人が怒っている理由は何か。</teks>
+					<pilihan id="1">相手が休憩時間が終わっても戻らなかったから</pilihan>
+					<pilihan id="2">相手が休憩時間に帰宅して戻ってこなかったから</pilihan>
+					<pilihan id="3">相手が携帯電話で話しているから</pilihan>
+					<pilihan id="4">相手が遅れた理由をまだ言わないから</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+			</mondai3>
+
+			<mondai4 type="聴解">
+				<judul>問題4 〈聴解〉</judul>
+				<judul_id>Soal 4: Mendengarkan</judul_id>
+
+				<bagian1>
+					<instruksi>この問題では、まず話を聞いてください。それから、二つの質問を聞いて、それぞれ問題用紙の1から4の中から、最もよいものを一つ選んでください。</instruksi>
+					<instruksi_id>Dalam soal ini, pertama dengarkan pembicaraan. Kemudian dengarkan dua pertanyaan, dan pilih yang paling tepat dari 1 sampai 4 di lembar soal.</instruksi_id>
+
+					<soal id="1" cd="08">
+						<pilihan id="1">猿が落とした ⇒ 道に落ちていた ⇒ 蟹が拾った</pilihan>
+						<pilihan id="2">道に落ちていた ⇒ 蟹が拾った ⇒ 猿がもらった</pilihan>
+						<pilihan id="3">道に落ちていた ⇒ 猿が拾った ⇒ 蟹がもらった</pilihan>
+						<pilihan id="4">蟹が落とした ⇒ 道に落ちていた ⇒ 猿が拾った</pilihan>
+					</soal>
+					<soal id="2" cd="08">
+						<pilihan id="1">うそつきだと思っている。</pilihan>
+						<pilihan id="2">自己中心的だと思っている。</pilihan>
+						<pilihan id="3">頭がいいと思っている。</pilihan>
+						<pilihan id="4">楽天的だと思っている。</pilihan>
+					</soal>
+				</bagian1>
+
+				<bagian2>
+					<instruksi>この問題では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、その返事を聞いて、1から3の中から、最もよいものを一つ選んでください。</instruksi>
+					<instruksi_id>Dalam soal ini, tidak ada yang tercetak di lembar soal. Pertama, dengarkan kalimat. Kemudian dengarkan jawabannya, dan pilih yang paling tepat dari 1 sampai 3.</instruksi_id>
+
+					<soal id="1" cd="09">
+						<pilihan>1</pilihan>
+						<pilihan>2</pilihan>
+						<pilihan>3</pilihan>
+					</soal>
+					<soal id="2" cd="10">
+						<pilihan>1</pilihan>
+						<pilihan>2</pilihan>
+						<pilihan>3</pilihan>
+					</soal>
+					<soal id="3" cd="11">
+						<pilihan>1</pilihan>
+						<pilihan>2</pilihan>
+						<pilihan>3</pilihan>
+					</soal>
+				</bagian2>
+			</mondai4>
+		</matome>
+	</bab4_content>
+
+	<!-- KONTEN BAB 5 - Pages 58-63 -->
+	<bab5_content>
+		<!-- PAGE 58 - Header & Content -->
+		<header halaman="58">
+			<kategori>実用書を読む</kategori>
+			<kategori_en>Reading a How-to Book</kategori_en>
+			<kategori_id>Membaca Buku How-to</kategori_id>
+			<nomor>5</nomor>
+			<judul>上司との付き合い方（１）</judul>
+			<judul_en>How to Get Along with Your Boss (1)</judul_en>
+			<judul_id>Cara Bergaul dengan Atasan (1)</judul_id>
+
+			<dekiru_koto>
+				<judul>できること</judul>
+				<judul_id>Yang Bisa Dilakukan</judul_id>
+				<item>
+					<jp>実用書などを読んで、筆者の考察が理解できる。</jp>
+					<en>Read a how-to-book and the like and understand the author's thoughts.</en>
+					<id>Dapat membaca buku how-to dan memahami pemikiran penulisnya.</id>
+				</item>
+			</dekiru_koto>
+
+			<content type="speech" cd="12">
+				<teks>会社では、さまざまな人が働いていますが、一人前の社会人ともなると、当然嫌いな人とも付き合わなくてはなりません。そのため気楽な学生時代にひきかえ、多くのストレスを抱えることになるでしょう。
+	会社を辞める理由では、仕事の内容や待遇の問題もさることながら、「人間関係」が常に上位に挙がっています。上司との関係であれ、同僚や後輩との関係であれ、仕事を進めるうえでは人間関係は非常に大切です。特に新人のみなさんにとって、上司との関係をよくしておくことは重要です。仕事上、何か問題が起これば、現状に即した対応が求められます。そんなとき、上司の指示を仰ぐことが必要だからです。そしてもし、わからなかったら何度でも聞き返しましょう。それが許されるのは新人である今をおいて他にありません。</teks>
+				<teks_id>Di perusahaan, ada berbagai macam orang yang bekerja, tetapi ketika sudah menjadi orang dewasa yang mandiri, tentu saja harus bergaul dengan orang yang tidak disukai. Sebagai perbandingan dengan masa mahasiswa yang santai, Anda akan mengalami banyak stres.
+	Alasan mengundurkan diri dari perusahaan, selain masalah isi pekerjaan dan perlakuan, "hubungan antarmanusia" selalu berada di peringkat teratas. Baik hubungan dengan atasan, maupun hubungan dengan rekan kerja dan junior, hubungan antarmanusia sangat penting dalam menjalankan pekerjaan. Terutama bagi Anda yang baru, menjaga hubungan yang baik dengan atasan adalah hal yang penting. Dalam pekerjaan, jika terjadi suatu masalah, diperlukan tanggapan yang sesuai dengan kondisi saat ini. Pada saat seperti itu, perlu untuk meminta petunjuk atasan. Dan jika tidak mengerti, tanyakan kembali berkali-kali. Hal yang dimaafkan hanya saat ini ketika Anda masih menjadi karyawan baru, tidak ada waktu lain.</teks_id>
+			</content>
+		</header>
+
+		<!-- SUB BAB 35: 社会人ともなると - Page 58 -->
+		<sub_bab id="35" halaman="58">
+			<nomor>35</nomor>
+			<judul>社会人ともなると</judul>
+			<judul_id>Ketika Sudah Menjadi Orang Dewasa</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～ともなると…」は「～の条件や立場ならば当然…になる」と言いたいときに使われる。</jp>
+					<en>"～ともなると…" is used when you want to say "naturally … happens if in a condition or position ～."</en>
+					<id>"~to mo naru to..." digunakan ketika ingin mengatakan "tentu saja... terjadi jika dalam kondisi atau posisi ~."</id>
+				</penjelasan>
+				<pola>N + [ともなると / ともなれば]</pola>
+				<pola_id>Kata Benda + [to mo naru to / to mo nareba]</pola_id>
+				<catatan>※動詞も使われることがある。</catatan>
+				<catatan_id>※ Kata kerja juga bisa digunakan.</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>総理大臣ともなると、その言動の1つ1つが大きな影響を与える。</jp>
+						<id>Ketika sudah menjadi Perdana Menteri, setiap ucapan dan tindakan memberikan pengaruh besar.</id>
+					</item>
+					<item no="2">
+						<jp>そこは一見目立たない店だが、昼休みともなると大勢の客が列を作る有名ラーメン店だ。</jp>
+						<id>Tempat itu adalah toko ramen terkenal yang tampaknya tidak mencolok, tetapi ketika tiba jam istirahat siang, banyak pelanggan mengantre.</id>
+					</item>
+					<item no="3">
+						<jp>普段はスポーツに関心のない人も、オリンピックともなれば夢中でテレビにかじりつく。</jp>
+						<id>Orang yang biasanya tidak tertarik olahraga pun, ketika Olimpiade, akan menempel di depan televisi dengan penuh semangat.</id>
+					</item>
+					<item no="4">
+						<jp>工場を建てかえるともなると、億単位の金がかかる。</jp>
+						<id>Ketika akan membangun ulang pabrik, biayanya mencapai miliaran yen.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 3</jawaban_ref>
+
+				<soal id="1">
+					<teks>宗教に無関心な日本の若者も正月ともなれば（　　　　　　）行くことが多い。</teks>
+					<pilihan id="a">寺や神社へ</pilihan>
+					<pilihan id="b">海外旅行に</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>勉強嫌いの学生でも、試験前ともなると（　　　　　　）だろう。</teks>
+					<pilihan id="a">遊んでいるわけにはいかない</pilihan>
+					<pilihan id="b">何もしない</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>キャンプ場は（　　　　　　）ともなると親子連れでにぎわう。</teks>
+					<pilihan id="a">夏休み</pilihan>
+					<pilihan id="b">平日</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>有名なサッカー選手ともなると（　　　　　　）。</teks>
+					<pilihan id="a">コマーシャルの出演料も高額だ</pilihan>
+					<pilihan id="b">マスコミは関心がない</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+				<soal id="5">
+					<teks>世界一周旅行ともなると（　　　　　　）。</teks>
+					<pilihan id="a">荷物は全部準備した</pilihan>
+					<pilihan id="b">荷物の準備も大変だ</pilihan>
+					<jawaban>b</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.58 ～ともなると</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 36: 気楽な学生時代にひきかえ - Page 59 -->
+		<sub_bab id="36" halaman="59">
+			<nomor>36</nomor>
+			<judul>気楽な学生時代にひきかえ</judul>
+			<judul_id>Dibandingkan dengan Masa Mahasiswa yang Santai</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～にひきかえ…」は「一方は～のに、他方は…だ」と2つの事柄を比べて、対照的だという意味を表す。</jp>
+					<en>"～にひきかえ…" expresses a comparison or contrast between two things as in "despite ～ on the one hand, the other is …."</en>
+					<id>"~ni hikikae..." menyatakan perbandingan atau kontras antara dua hal seperti "meski ~ di satu sisi, yang lainnya adalah ..."</id>
+				</penjelasan>
+				<pola>PI + の + にひきかえ [なAだな]</pola>
+				<pola_id>Predikat + no + ni hikikae [Kata Sifat na]</pola_id>
+				<catatan>※名詞の場合は「Nだ + の + にひきかえ」になる。※「なA／Nである + の + にひきかえ」の形もある。</catatan>
+				<catatan_id>※ Untuk kata benda menjadi "N da + no + ni hikikae". Bentuk "naA/N de aru + no + ni hikikae" juga ada.</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>あの映画は前作の観客が250万人を超えたのにひきかえ、続編は100万人にも届かなかったそうだ。</jp>
+						<id>Kabarnya film itu, dibandingkan dengan penonton film sebelumnya yang melebihi 2,5 juta orang, sekuelnya tidak mencapai 1 juta orang.</id>
+					</item>
+					<item no="2">
+						<jp>父親の死後、2人の兄が家や土地をもらったのにひきかえ、末の弟に残されたのはなぜか1冊の古いノートだけだった。</jp>
+						<id>Setelah ayah meninggal, dibandingkan dengan dua kakak laki-laki yang mendapat rumah dan tanah, yang tersisa untuk adik bungsu entah kenapa hanya 1 buku catatan lama.</id>
+					</item>
+					<item no="3">
+						<jp>災害時、迅速に対応した民間団体にひきかえ、政府は対応の遅れが目立った。</jp>
+						<id>Saat bencana, dibandingkan dengan organisasi swasta yang merespons dengan cepat, pemerintah terlihat sangat lambat dalam menanggapinya.</id>
+					</item>
+					<item no="4">
+						<jp>佐藤君の作品が独創的であるのにひきかえ、山下君のは平凡で面白みに欠ける。</jp>
+						<id>Dibandingkan dengan karya Sato-kun yang orisinal, karya Yamashita-kun biasa saja dan kurang menarik.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<halaman_ref>p.59 ～にひきかえ</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 37: 待遇の問題もさることながら - Page 60 -->
+		<sub_bab id="37" halaman="60">
+			<nomor>37</nomor>
+			<judul>待遇の問題もさることながら</judul>
+			<judul_id>Selain Masalah Perlakuan</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～もさることながら…」は「この車はデザインもさることながら、性能もいい」のように「～だけでなく…も」と言いたいときに使われる。「車選びはデザインもさることながら、安全性を重視すべきだ」のように「～も大切だが…はもっと重要だ」と言いたいときにも使う。</jp>
+					<en>As in "この車はデザインもさることながら、性能もいい", "～もさることながら…" is used when you want to say "not only ～, but also …." You can also use it when you want to say "～ is important too, but … is more so" as in "車選びはデザインもさることながら、安全性を重視すべきだ".</en>
+					<id>Seperti dalam "mobil ini selain desain, performanya juga bagus", "~mo saru koto nagara..." digunakan untuk mengatakan "tidak hanya ~, tetapi juga ...". Juga bisa digunakan untuk mengatakan "~ juga penting, tetapi ... lebih penting" seperti dalam "memilih mobil, selain desain, keamanan harus diutamakan".</id>
+				</penjelasan>
+				<pola>N + もさることながら</pola>
+				<pola_id>Kata Benda + mo saru koto nagara</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>少子化の原因は、晩婚化もさることながら、教育費の負担の大きさにもある。</jp>
+						<id>Penyebab menurunnya angka kelahiran, selain pernikahan di usia tua, juga disebabkan oleh beban besar biaya pendidikan.</id>
+					</item>
+					<item no="2">
+						<jp>熱中症を予防するには、水分補給もさることながら、塩分などを適度にとる必要もある。</jp>
+						<id>Untuk mencegah heatstroke, selain asupan cairan, perlu juga mengonsumsi garam dan lainnya secara moderat.</id>
+					</item>
+					<item no="3">
+						<jp>学生街のレストランは味もさることながら、量が多いことが第一条件だと言われる。</jp>
+						<id>Dikatakan bahwa restoran di kawasan mahasiswa, selain rasa, porsi yang banyak adalah syarat utama.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 3</jawaban_ref>
+
+				<soal id="1">
+					<teks>専門知識はもちろん必要だが、コミュニケーション能力はもっと必要だ。</teks>
+					<pilihan id="a">専門知識もさることながら、コミュニケーション能力も必要だ。</pilihan>
+					<pilihan id="b">コミュニケーション能力もさることながら、専門知識も必要だ。</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>健康のためにはもちろん治療も大切だが、それ以上に病気予防に努力する必要がある。</teks>
+					<pilihan id="a">健康のためには予防もさることながら、治療に努力すべきだ。</pilihan>
+					<pilihan id="b">健康のためには治療もさることながら、予防に努力すべきだ。</pilihan>
+					<jawaban>b</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.60 ～もさることながら</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 38: 上司との関係であれ、同僚や後輩との関係であれ - Pages 60-61 -->
+		<sub_bab id="38" halaman="60-61">
+			<nomor>38</nomor>
+			<judul>上司との関係であれ、同僚や後輩との関係であれ</judul>
+			<judul_id>Baik Hubungan dengan Atasan, Maupun dengan Rekan dan Junior</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「AであれBであれ…」は「AでもBでも」と例をあげて、「どんなものでも同じように…だ」と言いたいときに使われる。</jp>
+					<en>"AであれBであれ…" is used when you want to say "no matter what it is, it is …" by giving examples "whether A or B."</en>
+					<id>"A de are B de are..." digunakan ketika ingin mengatakan "apa pun itu, sama saja ..." dengan memberikan contoh "baik A maupun B".</id>
+				</penjelasan>
+				<pola>N1 + であれ + N2 + であれ</pola>
+				<pola_id>Kata Benda 1 + de are + Kata Benda 2 + de are</pola_id>
+				<catatan>※N2には疑問詞も使われる。</catatan>
+				<catatan_id>※ Kata tanya juga bisa digunakan untuk N2.</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>犬であれ猫であれ、このマンションでペットを飼うことは禁止されています。</jp>
+						<id>Baik anjing maupun kucing, memelihara hewan peliharaan di apartemen ini dilarang.</id>
+					</item>
+					<item no="2">
+						<jp>2位であれ3位であれ、優勝できなければ意味がない。</jp>
+						<id>Baik peringkat 2 maupun 3, jika tidak bisa juara tidak ada artinya.</id>
+					</item>
+					<item no="3">
+						<jp>論文であれ手紙であれ、他人の書いたものを引用するときには、著作権に配慮しなければならない。</jp>
+						<id>Baik thesis maupun surat, ketika mengutip tulisan orang lain, harus memperhatikan hak cipta.</id>
+					</item>
+					<item no="4">
+						<jp>このウォーターカッターを使えば、コンクリートであれ何であれ、切れないものはない。</jp>
+						<id>Jika menggunakan water cutter ini, baik beton maupun apa pun, tidak ada yang tidak bisa dipotong.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 3</jawaban_ref>
+
+				<soal id="1">
+					<teks>風力発電（　　　　　　）太陽光発電（　　　　　　）、再生可能エネルギーの利用が望ましい。</teks>
+					<pilihan id="a">であれ</pilihan>
+					<pilihan id="b">だし</pilihan>
+					<jawaban>a／a</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>彼は文科系出身（　　　　　　）、まだ入社3年目で経験不足（　　　　　　）、今回のプロジェクトのリーダーを任せるには不安がある。</teks>
+					<pilihan id="a">であれ</pilihan>
+					<pilihan id="b">だし</pilihan>
+					<jawaban>a／a</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>初めての海外旅行でカップラーメン（　　　　　　）パーティードレス（　　　　　　）いろいろスーツケースに詰め込んだが、結局必要なかった。</teks>
+					<pilihan id="a">であれ</pilihan>
+					<pilihan id="b">やら</pilihan>
+					<jawaban>a／a</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>子ども（　　　　　　）大人（　　　　　　）、交通ルールは守らなければならない。</teks>
+					<pilihan id="a">であれ</pilihan>
+					<pilihan id="b">とか</pilihan>
+					<jawaban>a／a</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<plus>
+				<judul>U</judul>
+				<penjelasan>
+					<jp>「疑問詞（＋N）＋であれ」は「～であっても」という意味で使われる。</jp>
+					<en>"疑問詞 (+ N) + であれ" is used to mean "even if ～."</en>
+					<id>"Kata tanya (+ Kata Benda) + de are" digunakan dengan arti "bahkan jika ~".</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>たとえどんな理由であれ、暴力は許されない。</jp>
+						<id>Baik alasan apa pun, kekerasan tidak bisa dibenarkan.</id>
+					</item>
+					<item no="2">
+						<jp>どこであれ、あなたの行くところへ私もついて行きたい。</jp>
+						<id>Di mana pun, saya ingin mengikuti Anda ke mana pun Anda pergi.</id>
+					</item>
+				</contoh_plus>
+			</plus>
+
+			<halaman_ref>p.60-61 ～であれ</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 39: 現状に即した対応 - Pages 61-62 -->
+		<sub_bab id="39" halaman="61-62">
+			<nomor>39</nomor>
+			<judul>現状に即した対応</judul>
+			<judul_id>Tanggapan yang Sesuai dengan Kondisi Saat Ini</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～に即して」は「ある状況や経験、規則に合わせて、（何かの行動をする）」と言いたいときに使われる。法律や規則の場合、漢字は「則して」を使う。</jp>
+					<en>"～に即して" is used when you want to say "(to take some action) in line with a situation, experience or rules." Use the kanji "則して" if referring to a law or rule.</en>
+					<id>"~ni sokushite" digunakan ketika ingin mengatakan "(melakukan suatu tindakan) sesuai dengan situasi, pengalaman, atau aturan". Gunakan kanji "則して" jika merujuk pada hukum atau peraturan.</id>
+				</penjelasan>
+				<pola>N + [にそくして / にそくした + N]</pola>
+				<pola_id>Kata Benda + [ni sokushite / ni sokushita + Kata Benda]</pola_id>
+				<catatan>※状況・経験・規則などを表す名詞と一緒に使われる。</catatan>
+				<catatan_id>※ Digunakan bersama kata benda yang menunjukkan situasi, pengalaman, atau aturan.</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>地形や産業構造など地域の実情に即して、災害対策を急がなくてはならない。</jp>
+						<id>Harus segera mengambil tindakan bencana sesuai dengan kondisi aktual wilayah seperti topografi dan struktur industri.</id>
+					</item>
+					<item no="2">
+						<jp>弊社は、時代に即した経営によって、常に業界をリードしてまいりました。</jp>
+						<id>Perusahaan kami selalu memimpin industri berkat manajemen yang sesuai dengan zaman.</id>
+					</item>
+					<item no="3">
+						<jp>この地区で路上喫煙すると、条例に則して1万円以下の罰金が科せられるそうだ。</jp>
+						<id>Kabarnya jika merokok di jalan di kawasan ini, akan dikenakan denda hingga 10.000 yen sesuai dengan peraturan daerah.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 3</jawaban_ref>
+
+				<soal id="1">
+					<teks>どんな組織のリーダーでも、状況に即した（　　　　　　）が求められるものだ。</teks>
+					<pilihan id="a">理想</pilihan>
+					<pilihan id="b">判断</pilihan>
+					<jawaban>b</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>顧客のニーズに即した（　　　　　　）が企業の生き残りの道だ。</teks>
+					<pilihan id="a">商品開発</pilihan>
+					<pilihan id="b">市場調査</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>本校では（　　　　　　）に則して、成績優秀者に奨学金が与えられることになっている。</teks>
+					<pilihan id="a">校長</pilihan>
+					<pilihan id="b">規定</pilihan>
+					<jawaban>b</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.61-62 ～に即して</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 40: 今をおいて他にありません - Page 62 -->
+		<sub_bab id="40" halaman="62">
+			<nomor>40</nomor>
+			<judul>今をおいて他にありません</judul>
+			<judul_id>Tidak Ada Waktu Lain Selain Sekarang</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～をおいて他にない」は「～だけだ／～以外ない」と言いたいときに使われる。「比べてみて～が一番だ」と高い評価をしているときに使われることが多い。</jp>
+					<en>"～をおいて他にない" is used when you want to say "only ～ / none other than ～." This is often used when giving something high praise as in "～ is the best in comparison."</en>
+					<id>"~o oite hoka ni nai" digunakan ketika ingin mengatakan "hanya ~ / tidak ada selain ~". Sering digunakan ketika memberikan pujian tinggi seperti "~ adalah yang terbaik jika dibandingkan".</id>
+				</penjelasan>
+				<pola>N + をおいて他にない</pola>
+				<pola_id>Kata Benda + o oite hoka ni nai</pola_id>
+				<catatan>※「～をおいて他にいない」「～をおいてない」などの形も使われる。</catatan>
+				<catatan_id>※ Bentuk "~o oite hoka ni inai" dan "~o oite nai" juga digunakan.</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>地球の生態系を保全し、環境を守ることができるのは、人類をおいて他にない。</jp>
+						<id>Yang bisa melestarikan ekosistem bumi dan melindungi lingkungan, tidak ada selain umat manusia.</id>
+					</item>
+					<item no="2">
+						<jp>次期社長は、経歴、人格、実績すべての面からみて、彼をおいて他にいないだろう。</jp>
+						<id>Untuk presiden direktur berikutnya, dari segala aspek pengalaman, kepribadian, dan prestasi, tidak ada yang lain selain dia.</id>
+					</item>
+					<item no="3">
+						<jp>有利な条件で転職するなら、景気が好転している今をおいて他にない。</jp>
+						<id>Jika ingin pindah kerja dengan kondisi yang menguntungkan, tidak ada waktu lain selain sekarang ketika ekonomi sedang membaik.</id>
+					</item>
+					<item no="4">
+						<jp>経営戦略論を学ぶとしたら、この大学のビジネススクールをおいて他にないと思うよ。</jp>
+						<id>Jika ingin mempelajari teori strategi bisnis, menurutku tidak ada yang lain selain business school universitas ini.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 3</jawaban_ref>
+
+				<soal id="1">
+					<teks>A：この仕事を任せられるのは、君（　　　　　　）他にいないんだ。B：はい、精一杯やらせていただきます。</teks>
+					<pilihan id="a">をおいて</pilihan>
+					<pilihan id="b">をよそに</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>もうすぐ雪がちらつき始める。渡り鳥が南へ向かうのは、今（　　　　　　）ない。</teks>
+					<pilihan id="a">をおいて</pilihan>
+					<pilihan id="b">なしには</pilihan>
+					<jawaban>a</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>同窓会は恩師（　　　　　　）開くことはできないだろう。</teks>
+					<pilihan id="a">をおいて</pilihan>
+					<pilihan id="b">をぬきにして</pilihan>
+					<jawaban>b</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<plus>
+				<judul>U</judul>
+				<penjelasan>
+					<jp>「何をおいても」は「どんな状況でも、まず第一に」という意味で使われる。</jp>
+					<en>何をおいても is used to mean "first do this no matter what the situation is."</en>
+					<id>"Nani o oite mo" digunakan dengan arti "lakukan ini terlebih dahulu apa pun situasinya".</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>地震の際は、何をおいても、まず身の安全を確保してください。</jp>
+						<id>Saat gempa bumi, apa pun yang terjadi, pastikan keselamatan diri Anda terlebih dahulu.</id>
+					</item>
+				</contoh_plus>
+			</plus>
+
+			<halaman_ref>p.62 ～をおいて他にない</halaman_ref>
+		</sub_bab>
+
+		<!-- CHECK - Page 63 -->
+		<check halaman="63">
+			<judul>Check</judul>
+			<judul_id>Cek</judul_id>
+			<jawaban_ref>別冊P. 3</jawaban_ref>
+
+			<bagian1>
+				<instruksi>適当な形に変えて、（　　）に入れなさい。</instruksi>
+				<instruksi_id>Ubah ke bentuk yang tepat dan isi (　　).</instruksi_id>
+
+				<soal id="1">
+					<teks>丈夫な兄（　　　　　　）、弟は風邪をひいても入院するくらい病弱だ。</teks>
+					<jawaban>にひきかえ</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>一流の通訳（　　　　　　）、いろいろな分野の知識が要求されるそうだ。</teks>
+					<jawaban>ともなると</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>我が社の顧客情報は、個人情報保護法（　　　　　　）適正に処理し、管理致します。</teks>
+					<jawaban>に則して</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>医療に関する件ならば、佐藤弁護士（　　　　　　）他にはいないと言われている。</teks>
+					<jawaban>をおいて</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>に則して</item>
+					<item>にひきかえ</item>
+					<item>をおいて</item>
+					<item>ともなると</item>
+				</pilihan_jawaban>
+			</bagian1>
+
+			<bagian2>
+				<soal id="5">
+					<teks>武士たちは、有事の際は何（　　　　　　）駆けつけなければならないので、勝手にその土地を離れることはできなかったそうだ。</teks>
+					<jawaban>をおいても</jawaban>
+				</soal>
+				<soal id="6">
+					<teks>きっかけは何（　　　　　　）、走ることが楽しいと感じるようになればいいですね。</teks>
+					<jawaban>であれ</jawaban>
+				</soal>
+				<soal id="7">
+					<teks>メロディーの美しさ（　　　　　　）、子どもたちの澄んだ歌声が印象に残った。</teks>
+					<jawaban>もさることながら</jawaban>
+				</soal>
+
+				<pilihan_bagian2>
+					<item>をおいても</item>
+					<item>もさることながら</item>
+					<item>であれ</item>
+				</pilihan_bagian2>
+			</bagian2>
+		</check>
+	</bab5_content>
+
+
+
+	<!-- KONTEN BAB 6 - Pages 64-72 -->
 	
 	<!-- N1「できること」リスト - Pages 188-191 -->
 	<can_do_list halaman="188-191">
