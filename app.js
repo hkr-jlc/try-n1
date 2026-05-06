@@ -430,7 +430,7 @@ function renderContentsSection() {
         `;
     });
     
-    html += '<div class="quick-section-title">Bab 1-22</div>';
+    html += '<div class="quick-section-title">Bab 1-16</div>';
     data.bab.forEach(bab => {
         html += `
             <div class="bab-card-home" onclick="showSection('bab-${bab.id}-header')">
@@ -454,7 +454,7 @@ function renderContentsSection() {
     
     
     // Can Do List Quick Access
-    html += '<div class="quick-section-title" style="margin-top: 2rem;">N3「できること」リスト</div>';
+    html += '<div class="quick-section-title" style="margin-top: 2rem;">N1「できること」リスト</div>';
     html += `
         <div class="bab-card-home" onclick="showSection('can-do-list')" style="border-left-color: #059669;">
             <div class="bab-number-home" style="background: #059669;">✓</div>
@@ -465,9 +465,9 @@ function renderContentsSection() {
                     <span class="translation-id">Daftar Kemampuan</span>
                 </div>
                 <div class="bab-title-home">
-                    <span class="sentence-jp">N3「できること」リスト</span>
-                    <span class="translation-en">N2 Can Do List</span>
-                    <span class="translation-id">Daftar Kemampuan N2</span>
+                    <span class="sentence-jp">N1「できること」リスト</span>
+                    <span class="translation-en">N1 Can Do List</span>
+                    <span class="translation-id">Daftar Kemampuan N1</span>
                 </div>
             </div>
             <span class="bab-page-home">p.188-191</span>
@@ -1361,14 +1361,14 @@ function renderCanDoList() {
         <section id="can-do-list" class="hidden">
             <div class="section-header">
                 <div class="bab-header-category">
-                    <span class="sentence-jp">N2「できること」リスト</span>
-                    <span class="translation-en">N2 Can Do List</span>
-                    <span class="translation-id">Daftar Kemampuan N2</span>
+                    <span class="sentence-jp">N1「できること」リスト</span>
+                    <span class="translation-en">N1 Can Do List</span>
+                    <span class="translation-id">Daftar Kemampuan N1</span>
                 </div>
                 <div class="bab-header-title">
                     <h1 class="bab-header-text"><span class="sentence-jp">できることリスト</span></h1>
-                    <span class="bab-header-en">What You Can Do with N2 Grammar</span>
-                    <span class="translation-id">Apa yang Dapat Anda Lakukan dengan Tata Bahasa N2</span>
+                    <span class="bab-header-en">What You Can Do with N1 Grammar</span>
+                    <span class="translation-id">Apa yang Dapat Anda Lakukan dengan Tata Bahasa N1</span>
                 </div>
                 <p class="page-number" style="text-align: center; color: #6b7280; margin-top: 0.5rem;">p.188-191</p>
             </div>
